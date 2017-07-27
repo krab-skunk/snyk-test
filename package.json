@@ -9,7 +9,6 @@
      "jquery": "~2.1.4",
     "moment": "~2.10.6",
     "moment-timezone": "~0.4.1-2015g",
-    "selectize": "https://github.com/codewise/selectize.js.git#master",
     "svg4everybody": "~2.0.0",
     "highcharts": "http://code.highcharts.com/4.0.4/highcharts.js",
     "lodash": "~4.13.1",
